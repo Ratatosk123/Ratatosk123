@@ -1,6 +1,6 @@
- Olá meu Nome é Allan Web Developer Full-Stack  👋
+ Olá meu Nome é Allan Desenvolvedor Full-Stack  👋
 
-🚀 Minhas linguagens mais usadas:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ratatosk123&theme=default)
+___________________________________________________________________________________________________________________
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratatosk123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
