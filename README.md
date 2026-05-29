@@ -1,11 +1,5 @@
  Olá meu Nome é Allan Desenvolvedor Full-Stack  👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ratatosk123&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ratatosk123&theme=aura)
-___________________________________________________________________________________________________________________
-
-
-
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/all4zim.sp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allanmaiagondim.amg@gmail.com) 
 
